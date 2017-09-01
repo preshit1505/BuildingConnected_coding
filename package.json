@@ -1,0 +1,15 @@
+{
+  "name": "building_construction",
+  "version": "1.0.0",
+  "description": "Printing the log source from various sources",
+  "main": "printLog.js",
+  "scripts": {
+    "start":"node printLog.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "building_construction"
+  ],
+  "author": "Preshit Dwivedi",
+  "license": "ISC"
+}
